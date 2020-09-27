@@ -1,2 +1,2 @@
-# kube-yaml
+# kube-yamls
 Some yamls of kubernetes.
